@@ -86,4 +86,7 @@ while True:
         break
 
     else:
+
         print("Invalid choice! Returning to menu...\n")
+
+print("thank you have a good day!")
